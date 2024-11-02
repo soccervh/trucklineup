@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770818085556",
+    "project_id": "truck-line-up",
+    "storage_bucket": "truck-line-up.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770818085556:android:07a3fab796a55d14283de1",
+        "android_client_info": {
+          "package_name": "com.truck.trucklineup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMTWNxJztBetbn3ERNfkLEafZ3x7I8FvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
